@@ -8,6 +8,13 @@
       "when": 1789020019518,
       "tag": "0000_equal_professor_monster",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789023216959,
+      "tag": "0001_careful_mysterio",
+      "breakpoints": true
     }
   ]
 }
